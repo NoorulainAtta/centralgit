@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 its file to check stash impementation
 this is stashfile1 
 and need to check the stash functionality
+=======
+<<<<<<< HEAD
+This is file updated here and to check whether stash is retreived or not
+=======
+its file to check stash impementation
+this is stashfile1 
+and need to check the stash functionality
+>>>>>>> branch1
+>>>>>>> master
